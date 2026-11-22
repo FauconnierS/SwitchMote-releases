@@ -1,0 +1,1 @@
+# SwitchMote-releases
